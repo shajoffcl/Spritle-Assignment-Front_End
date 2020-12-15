@@ -1,0 +1,11 @@
+#home-container{
+    height: 100vh;
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 25px;
+    color: green;
+    background-image: url("https://image.freepik.com/free-vector/planning-vacation-travel-with-mobile-app-vector_81522-1158.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
